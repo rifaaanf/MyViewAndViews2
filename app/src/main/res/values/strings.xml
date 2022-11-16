@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    <string name="content_text">Apple today announced iPhone 12 Pro and iPhone 12 Pro Max, introducing a powerful 5G experience and advanced technologies that push the boundaries of innovation for users who want the most out of iPhone. iPhone 12 Pro models feature a new design and edge-to-edge Super Retina XDR displays, the largest ever on iPhone, protected by the all-new Ceramic Shield front cover, which provides the biggest jump in durability ever on iPhone. The Apple-designed A14 Bionic chip, the fastest chip in a smartphone, powers impressive computational photography features including the all-new Apple ProRAW for more creative control in photos, and enables the first end-to-end Dolby Vision video experience, up to 60 fps. The reimagined pro camera systems include an expansive Ultra Wide camera, a Telephoto camera with an even longer focal length on iPhone 12 Pro Max, and new Wide cameras to capture beautiful professional-quality images and video in bright and low-light environments. iPhone 12 Pro models also introduce a new LiDAR Scanner for immersive augmented reality (AR) experiences and MagSafe, which offers high-powered wireless charging and an all-new ecosystem of accessories that easily attach to iPhone.</string>
+    <string name="content_specs_display">Type Super Retina XDR OLED, HDR10, Dolby Vision, 800 nits (HBM), 1200 nits (peak)\n
+Size 6.1 inches, 90.2 cm2 (~86.0% screen-to-body ratio)\n
+Resolution 1170 x 2532 pixels, 19.5:9 ratio (~460 ppi density)\n
+Protection Ceramic Shield glass</string>
+    <string name="content_specs_size">146.7 x 71.5 x 7.4 mm (5.78 x 2.81 x 0.29 in)</string>
+    <string name="content_specs_battery">Type Li-Ion 2815 mAh, non-removable (10.78 Wh)\n
+Charging 20W wired, PD2.0, 50% in 30 min (advertised)\n
+15W wireless (MagSafe)\n
+7.5W wireless (Qi)</string>
+    <string name="stock">Stock hanya 5 buah</string>
+    <string name="specification">Spesifikasi</string>
+    <string name="display">Display</string>
+    <string name="size">Size</string>
+    <string name="battery">Battery</string>
+    <string name="seller">Dijual oleh</string>
+    <string name="my_name">Rifan Fatoni</string>
+    <string name="buy">Beli</string>
+    <string name="dummy_value">$886.60</string>
+    <string name="dummy_photos">6 photos</string>
+    <string name="hubungi_cs">Hubungi Customer Service</string>
+</resources>
